@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and studying.
 - 💼 &nbsp; Worked at Payroll Outsourcing solution Company in Korea and Coding Bootcamp >Wecode.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and DevOps.
 <details>
 <summary><strong>What i am learning/working on these days(click here!) :computer: </strong></summary>  
 
