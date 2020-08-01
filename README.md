@@ -2,7 +2,7 @@
 
 <h3>🤖 💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and .
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and studying.
 - 💼 &nbsp; Worked at Payroll Outsourcing solution Company in Korea and Coding Bootcamp >Wecode.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 <details>
